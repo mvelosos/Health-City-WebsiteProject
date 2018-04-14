@@ -1,0 +1,39 @@
+{
+    "title": "Health City",
+    "name": "Health City-WebProject",
+    "version": "1.0.0",
+    "description": "Website for a project named Helth City",
+    "keywords": [
+        
+    ],
+    "homepage": "https://github.com/mvelosos/Health-City-WebProject",
+    "bugs": {
+        "url": "https://github.com/mvelosos/Health-City-WebProject/issues",
+        "email": "mfvelosos@gmail.com"
+    },
+    "license": "MIT",
+    "author": "Mateus Veloso",
+    "contributors": [
+
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mvelosos/Health-City-WebProject"
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1",
+        "simple-line-icons": "2.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.6",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.2",
+        "gulp-header": "2.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0",
+        "gulp-uglify": "3.0.0"
+    }
+}
