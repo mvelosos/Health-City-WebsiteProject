@@ -4,11 +4,11 @@
     "version": "1.0.0",
     "description": "Website for a project named Helth City",
     "keywords": [
-        
+
     ],
-    "homepage": "https://github.com/mvelosos/Health-City-WebProject",
+    "homepage": "https://github.com/mvelosos/Health-City-WebsiteProject",
     "bugs": {
-        "url": "https://github.com/mvelosos/Health-City-WebProject/issues",
+        "url": "https://github.com/mvelosos/Health-City-WebsiteProject/issues",
         "email": "mfvelosos@gmail.com"
     },
     "license": "MIT",
@@ -18,7 +18,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mvelosos/Health-City-WebProject"
+        "url": "https://github.com/mvelosos/Health-City-WesiteProject"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
