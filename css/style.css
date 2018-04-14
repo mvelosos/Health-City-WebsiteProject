@@ -186,6 +186,39 @@ header.masthead .device-container .screen img {
   margin-bottom: 75px;
 }
 
+.img-resize{
+  height: 426px;
+  width: 781px;
+}
+
+@media (max-width: 992px) {
+  .img-resize{
+    height: 350px;
+    width: 641px;
+  }
+}
+
+@media (max-width: 768px) {
+  .img-resize{
+    height: 295px;
+    width: 541px;
+  }
+}
+
+@media (max-width: 600px) {
+  .img-resize{
+    height: 262px;
+    width: 481px;
+  }
+}
+
+@media (max-width: 500px) {
+  .img-resize{
+    height: 218px;
+    width: 381px;
+  }
+}
+
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
